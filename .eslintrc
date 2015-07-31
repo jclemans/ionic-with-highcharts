@@ -1,0 +1,46 @@
+{
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "ionic": true,
+    "IonicModule": true,
+    "angular": true,
+    "jqLite": true,
+    "forEach": true,
+    "isDefined": true,
+    "isNumber": true,
+    "isString": true,
+    "noop": true,
+    "extend": true,
+    "deprecated": true,
+    "cordova": true,
+    "DocumentTouch": true,
+    "describe": true,
+    "ddescribe": true,
+    "it": true,
+    "iit": true,
+    "inject": true,
+    "beforeEach": true,
+    "afterEach": true,
+    "expect": true,
+    "require": true,
+    "StatusBar": true
+  },
+  "rules": {
+    "quotes": 0,
+    "no-underscore-dangle": 0,
+    "no-unused-expressions": 0,
+    "curly": [2, "multi-line"],
+    "strict": 0,
+    "no-use-before-define": 0,
+    "eqeqeq": 0,
+    "new-cap": [2, {"capIsNew": false}],
+    "dot-notation": [2, {"allowKeywords": false}],
+    "no-console": 0,
+    "no-return-assign": 0,
+    "no-shadow": 0,
+    "comma-dangle": 0,
+    "camelcase": [2, {"properties": "never"}]
+  }
+}
